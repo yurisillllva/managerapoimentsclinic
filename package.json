@@ -1,0 +1,19 @@
+{
+  "name": "clinicaagendamento",
+  "version": "1.0.0",
+  "description": "Sistema em que gerencia o agendamento de uma clínica",
+  "license": "ISC",
+  "author": "Yuri Silva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4",
+    "nodemailer": "^6.9.16"
+  }
+}
